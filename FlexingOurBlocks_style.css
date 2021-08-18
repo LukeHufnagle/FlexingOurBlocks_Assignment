@@ -1,0 +1,53 @@
+.container{
+    width: 950px;
+    height: 600px;
+    background-color: silver;
+    margin: 0px auto;
+}
+
+.green{
+    height: 150px;
+    background-color: green;
+    margin: 20px;
+}
+
+#row1{
+    display: flex;
+}
+
+.blue{
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.red{
+    height: 400px;
+    width: 691px;
+    background-color: red;
+    
+}
+
+#row2{
+    display: flex;
+}
+
+.yellow{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.purple{
+    height: 120px;
+    width: 642px;
+    background-color: purple;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
